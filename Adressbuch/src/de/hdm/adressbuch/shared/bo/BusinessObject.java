@@ -27,6 +27,28 @@ import com.google.gwt.user.client.rpc.IsSerializable;
 public abstract class BusinessObject implements Serializable, IsSerializable {
 	
 	private static final long serialVersionUID = 1L;
+//	private String name = ""; 
+//	
+//	
+//	/**
+//	 * Auslesen des Namens
+//	 * 
+//	 * @param name
+//	 */
+//	public String getObjectName() {
+//		return name;
+//	}
+//	
+//
+//	/**
+//	 * Setzen des Namens
+//	 * 
+//	 * @param name
+//	 */
+//	public void setObjectName(String name) {
+//		this.name = name;
+//	}
+	
 
 	/**
 	 * Die eindeutige Identifikationsnummer einer Instanz dieser Klasse.
